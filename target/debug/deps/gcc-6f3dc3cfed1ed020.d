@@ -1,0 +1,12 @@
+C:\Users\luoyin\Desktop\rustlearning\weblearning\target\debug\deps\libgcc-6f3dc3cfed1ed020.rmeta: C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\lib.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\registry.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\winapi.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\com.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\setup_config.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\luoyin\Desktop\rustlearning\weblearning\target\debug\deps\libgcc-6f3dc3cfed1ed020.rlib: C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\lib.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\registry.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\winapi.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\com.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\setup_config.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\luoyin\Desktop\rustlearning\weblearning\target\debug\deps\gcc-6f3dc3cfed1ed020.d: C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\lib.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\registry.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\winapi.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\com.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\setup_config.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\lib.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\registry.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\winapi.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\com.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\setup_config.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\gcc-0.3.55\src\windows_registry.rs:

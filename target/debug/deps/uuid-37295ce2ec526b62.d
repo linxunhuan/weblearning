@@ -1,0 +1,13 @@
+C:\Users\luoyin\Desktop\rustlearning\weblearning\target\debug\deps\libuuid-37295ce2ec526b62.rmeta: C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\lib.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\builder.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\error.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\parser.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\fmt.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\timestamp.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\external.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\external\serde_support.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\macros.rs
+
+C:\Users\luoyin\Desktop\rustlearning\weblearning\target\debug\deps\uuid-37295ce2ec526b62.d: C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\lib.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\builder.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\error.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\parser.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\fmt.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\timestamp.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\external.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\external\serde_support.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\macros.rs
+
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\lib.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\builder.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\error.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\parser.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\fmt.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\timestamp.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\external.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\external\serde_support.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\uuid-1.5.0\src\macros.rs:
