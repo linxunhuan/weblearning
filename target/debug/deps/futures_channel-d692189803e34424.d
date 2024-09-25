@@ -1,0 +1,10 @@
+C:\Users\luoyin\Desktop\rustlearning\weblearning\target\debug\deps\libfutures_channel-d692189803e34424.rmeta: C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\lib.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\lock.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\mpsc\mod.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\mpsc\queue.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\mpsc\sink_impl.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\oneshot.rs
+
+C:\Users\luoyin\Desktop\rustlearning\weblearning\target\debug\deps\futures_channel-d692189803e34424.d: C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\lib.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\lock.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\mpsc\mod.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\mpsc\queue.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\mpsc\sink_impl.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\oneshot.rs
+
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\lib.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\lock.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\mpsc\mod.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\mpsc\queue.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\mpsc\sink_impl.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-channel-0.3.30\src\oneshot.rs:

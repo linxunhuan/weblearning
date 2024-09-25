@@ -1,0 +1,11 @@
+C:\Users\luoyin\Desktop\rustlearning\weblearning\target\debug\deps\libfutures_task-af4da1aab7a3c509.rmeta: C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\lib.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\spawn.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\arc_wake.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\waker.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\waker_ref.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\future_obj.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\noop_waker.rs
+
+C:\Users\luoyin\Desktop\rustlearning\weblearning\target\debug\deps\futures_task-af4da1aab7a3c509.d: C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\lib.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\spawn.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\arc_wake.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\waker.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\waker_ref.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\future_obj.rs C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\noop_waker.rs
+
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\lib.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\spawn.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\arc_wake.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\waker.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\waker_ref.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\future_obj.rs:
+C:\Users\luoyin\.cargo\registry\src\rsproxy.cn-0dccff568467c15b\futures-task-0.3.30\src\noop_waker.rs:
